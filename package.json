@@ -1,0 +1,14 @@
+{
+  "name": "node_docker",
+  "version": "1.0.0",
+  "description": "Learn the core fundamentals of Docker by building a Node/Express app with a Mongo & Redis database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
